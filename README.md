@@ -18,6 +18,9 @@ The repository has the following structure:
 3. optimization.ipynb notebook: this notebook shows the previous file in use with the results.
 
 ### Personel Information
+
 Name: Hussein Shiri
+
 Email: hussein.y.shiri@gmail.com
+
 LinkedIn: www.linkedin.com/in/hussein-shiri
